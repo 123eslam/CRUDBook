@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Page of Books</h1>
+<a href="/Books/AddBook" class="btn btn-primary">Add Book</a>
+@foreach (Books d in Model)
+{
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Id: @d.Id</h4>
+                <h4 class="card-text">Name: @d.Name</h4>
+                <h4 class="card-text">Price: @d.Price</h4>
+                <h4 class="card-text">CategoryId: @d.CategoryId</h4>
+                <h4 class="card-text">AuthorId: @d.AuthorId</h4>
+                <a href="/Books/Details/@d.Id" class="btn btn-primary" target="_blank">Details</a>
+                <a href="/Books/UppdateBook/@d.Id" class="btn btn-primary" target="_blank">Uppdate data</a>
+                <a href="/Books/Delete/@d.Id" class="btn btn-primary" target="_blank">Delet</a>
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    .card{
+        margin:20px
+    }
+</style>

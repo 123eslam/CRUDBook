@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Books
+<h1>Details of Book</h1>
+@if (Model == null)
+{
+    <h2>Not Found Details</h2>
+}
+else
+{
+
+<div class="col-sm-6">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">@Model?.Id</h5>
+            <p class="card-text">@Model?.Name</p>
+            <p class="card-text">@Model?.Price</p>
+            <p class="card-text">@Model?.Author</p>
+            <p class="card-text">@Model?.Category</p>
+            <a href="/Books" class="btn btn-primary">Back Books</a>
+
+        </div>
+    </div>
+</div>
+}

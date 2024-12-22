@@ -1,0 +1,25 @@
+﻿@model User
+<h1>Regsitor</h1>
+<form method="post" asp-action="SubmitRegister" asp-controller="AuthUser">
+    <div>
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Emile"></label>
+        <input class="form-control" asp-for="Emile" />
+    </div>
+    <div>
+        <label asp-for="Passwored"></label>
+        <input class="form-control" asp-for="Passwored" type="password"/>
+    </div>
+    <div>
+        <label asp-for="Rol"></label>
+        <select asp-for="Rol" class="form-control">
+            <option value="Admin">Admin</option>
+            <option value="User">User</option>
+        </select>
+    </div>
+
+    <input type="submit" class="btn btn-primary mt-5" />
+</form>

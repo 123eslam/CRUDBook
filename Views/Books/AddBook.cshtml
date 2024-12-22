@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Books
+<h1>Add New Books</h1>
+<form method="get" asp-action="SaveBook" asp-controller="Books">
+    <div>
+        <label asp-for="Name">Name</label>
+        <input class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label>Price</label>
+        <input class="form-control" asp-for="Price" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="mb-5">
+        <label>AutorName</label>
+        <select class="form-control" asp-for="AuthorId">
+            @foreach (var Auth in (ViewData["Auth"] as IEnumerable<Author>))
+            {
+                <option value="@Auth.Id">@Auth.Name</option>
+            }
+        </select>
+        <span asp-validation-for="AuthorId" class="text-danger"></span>
+    </div>
+    <div class="mb-5">
+        <label>CategoryName</label>
+        <select class="form-control" asp-for="CategoryId">
+            @foreach (var Cat in (ViewData["Cat"] as IEnumerable<Category>))
+            {
+                <option value="@Cat.Id">@Cat.Name</option>
+            }
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Add Book" class="btn btn-primary" />
+</form>
+
+@section Scripts
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
