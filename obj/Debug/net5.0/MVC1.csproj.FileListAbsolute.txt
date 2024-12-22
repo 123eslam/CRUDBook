@@ -1,0 +1,186 @@
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\appsettings.json
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.exe
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.deps.json
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.runtimeconfig.json
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.runtimeconfig.dev.json
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\ref\MVC1.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.pdb
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.Views.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\MVC1.Views.pdb
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.AssemblyInfoInputs.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.AssemblyInfo.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.csproj.CoreCompileInputs.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorAssemblyInfo.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorAssemblyInfo.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\staticwebassets\MVC1.StaticWebAssets.Manifest.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\staticwebassets\MVC1.StaticWebAssets.xml
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\scopedcss\bundle\MVC1.styles.css
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.TagHelpers.input.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.TagHelpers.output.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorCoreGenerate.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorTargetAssemblyInfo.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorTargetAssemblyInfo.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.Views.pdb
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\ref\MVC1.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.pdb
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.genruntimeconfig.cache
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.csproj.CopyComplete
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\AddBook.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\UppdateBook.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\AuthUser\Regster.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\AuthUser\Login.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\bin\Debug\net5.0\Tavis.UriTemplates.dll
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\AccessDened.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\Eltamalawy\Desktop\MVC1\MVC1\obj\Debug\net5.0\MVC1.csproj.AssemblyReference.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\appsettings.Development.json
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\appsettings.json
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.exe
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.deps.json
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.runtimeconfig.json
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.runtimeconfig.dev.json
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\ref\MVC1.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.pdb
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.Views.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\MVC1.Views.pdb
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Azure.Core.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Graph.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Abstractions.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Authentication.Azure.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Form.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Json.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Multipart.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Microsoft.Kiota.Serialization.Text.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Memory.Data.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\System.Text.Json.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\Tavis.UriTemplates.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.csproj.AssemblyReference.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.AssemblyInfoInputs.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.AssemblyInfo.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.csproj.CoreCompileInputs.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorAssemblyInfo.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorAssemblyInfo.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\staticwebassets\MVC1.StaticWebAssets.Manifest.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\staticwebassets\MVC1.StaticWebAssets.xml
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\scopedcss\bundle\MVC1.styles.css
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.TagHelpers.input.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.TagHelpers.output.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorCoreGenerate.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\AuthUser\Login.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\AuthUser\Regster.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\AddBook.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Books\UppdateBook.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\AccessDened.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\Dashboard.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorTargetAssemblyInfo.cache
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.RazorTargetAssemblyInfo.cs
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.Views.pdb
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.csproj.CopyComplete
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\ref\MVC1.dll
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.pdb
+D:\My Projects\iti\MVC\MVC1\MVC1\obj\Debug\net5.0\MVC1.genruntimeconfig.cache
